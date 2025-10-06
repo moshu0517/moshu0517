@@ -118,20 +118,6 @@ R         ████████████░░░░░░░░░░░�
 
 ---
 
-## 💼 Professional Experience Highlights
-
-**🔹 Data Scientist @ Shaanxi Qirui Co., Ltd** *(Jan 2022 – Jun 2024)*
-- Reduced financial loss by fine-tuning BERT+MLP model for livestream GMV prediction (MAPE ~15%, **+8% GMV uplift**)
-- Cut receivables by **~30%** using XGBoost classification (AUC 0.85, F1 0.78)
-- Delivered **30+ dashboards** (Power BI/Tableau) accelerating decision-making from days to hours
-
-**🔹 Data Analyst Intern @ TikTok (ByteDance)** *(Jun 2021 – Oct 2021)*
-- Reduced manual relabeling effort by **~70%** with semi-supervised learning
-- Increased average campaign reach by **17.5%** through CatBoost forecasting model
-- Optimized ad strategies via A/B testing, finding **+9-12% UGC participation** improvement
-
----
-
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moshu-huang)
