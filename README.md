@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="https://github.com/moshu0517.png" width="200" style="border-radius: 50%;" />
+
   
   # Hi there, I'm Moshu Huang! 👋
   
