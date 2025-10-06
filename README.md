@@ -1,6 +1,5 @@
 
 
-  # 
   # Hi there, I'm Moshu Huang! 👋
   
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6B46C1&center=true&vCenter=true&width=900&lines=Data+Scientist+%7C+Entrepreneur+%7C+AI+Enthusiast)](https://git.io/typing-svg)
